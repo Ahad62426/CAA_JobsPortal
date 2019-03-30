@@ -1,0 +1,25 @@
+
+.nav-wrapper {
+    background-color: rgb(0, 0, 0);
+}
+
+#gmail {
+    position: relative;
+    left: 5px;
+    top: 20px;
+    background-image: url('../2000px-New_Logo_Gmail.svg.png');
+    background-repeat: no-repeat;
+    background-size: 30px 20px;
+    height: 20px;
+    width: 30px;
+}
+
+#Logo {
+    position: relative;
+    top: -10px;
+    background-image: url('../Pakistan_Civil_Aviation_Authority_\(PCAA\)_Logo.png');
+    background-repeat: no-repeat;
+    background-size: 100px 70px;
+    height: 70px;
+    width: 100px;
+}
